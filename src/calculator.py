@@ -1,4 +1,4 @@
 def calc():
-	print("calci")
+	print("SI")
 
 calc()
