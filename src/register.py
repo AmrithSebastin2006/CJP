@@ -1,4 +1,4 @@
 def register():
-    print("Register")
+    print("New Register")
 
 register()
